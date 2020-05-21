@@ -1,2 +1,2 @@
-include ':app', ':cameralib'
+include ':app', ':sukshicamerademo'
 rootProject.name='SukshiCameraApp'
